@@ -46,3 +46,5 @@ REPL before running:
 >>> import nltk
 >>> nltk.download('wordnet')
 ```
+# Credit
+Credits for the starter code go to the creator of this technique, [Siraj Raval](https://github.com/llSourcell)
